@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Michel Almeida!</strong> 
 
-Atualmente, minha experiência é em desenvolvimento mobile, onde me forneceu uma visão mais concreta sobre essa área. Porém, tenho curiosidade e interesses em outras áreas como back-end e diversos outros temas de engenharia de software e ciência da computação.
+Atualmente, minha experiência é em desenvolvimento mobile, onde me forneceu uma visão mais concreta sobre a área de desenvolvimento de Software. Porém, tenho curiosidade e interesses em outras áreas como back-end e outras áreas da engenharia de software e ciência da computação.
 
 
 ## 🚀 Minhas Skills
