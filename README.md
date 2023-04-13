@@ -33,8 +33,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor Mobile** \
 [**Nav9**](https://www.nav9.tech/) \
 Linguagens & Tecnologias: `Kotlin`, `Javascript`, `Typescript`, `Java`, `React-Native` \
-Projetos em destaque: [Scaffold app](https://scaffoldeducation.com.br/).
-
 <br/>
 
 Como desenvolvedor mobile na Nav9, tenho trabalhado em projetos como 
