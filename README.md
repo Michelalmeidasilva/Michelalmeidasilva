@@ -55,7 +55,7 @@ Minhas habilidades técnicas foram principalmente:
 
 **Desenvolvedor Mobile (Estágio)** \
 [**Embrapa**](https://www.embrapa.br/) \
-Linguagens & Tecnologias: `Java`, `Flutter`, `Dart` \
+Linguagens & Tecnologias: `Java`, `Flutter`, `Dart` 
 
 <br/>
 
