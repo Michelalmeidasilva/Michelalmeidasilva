@@ -64,3 +64,6 @@ Habilidades e tecnologias desenvolvidas:
 
 
 Encontre-me no [LinkedIn](https://www.linkedin.com/in/michel-almeida-silva/) para uma descrição mais detalhada da minha experiência de trabalho e educação.
+ 
+[Contato por e-mail](mailto:Michelalmeida.dev@gmail.com?subject=[GitHub]%20Source%20Michel%20Almeida)
+
