@@ -28,8 +28,6 @@ Atualmente, minha experiência é em desenvolvimento mobile, onde me forneceu um
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGm_6c2S_aE-g/company-logo_200_200/0/1667963453992?e=1689206400&v=beta&t=j4ZQzdsua7QwWX5LcRaVSW6ZBA0z_mQ1a8BJkgE4-nU"/>](https://www.nav9.tech/)
-
 **Desenvolvedor Mobile** \
 [**Nav9**](https://www.nav9.tech/) \
 Linguagens & Tecnologias: `Kotlin`, `Javascript`, `Typescript`, `Java`, `React-Native` \
@@ -48,8 +46,6 @@ Minhas habilidades técnicas foram principalmente:
 - Monitoramento de logs com o Sentry. 
 <br/>
 
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C560BAQFoGzzwgV0nOQ/company-logo_200_200/0/1519856251082?e=1689206400&v=beta&t=xd4TVbObRDcGhruV9lTAk7C8nsCDI9Zfqxu1u6KhRqI"/>](https://www.nav9.tech/)
 
 **Desenvolvedor Mobile (Estágio)** \
 [**Embrapa**](https://www.embrapa.br/) \
