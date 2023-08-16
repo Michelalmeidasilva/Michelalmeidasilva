@@ -33,7 +33,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `Kotlin`, `Javascript`, `Typescript`, `Java`, `React-Native` \
 <br/>
 
-Como desenvolvedor mobile na Nav9, tenho trabalhado em projetos como 
+Como desenvolvedor mobile na Nav9, tralhei em projetos como 
 desenvolvedor,  desde a concepção até o lançamento. 
 
 Minhas habilidades técnicas foram principalmente: 
