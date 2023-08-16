@@ -28,6 +28,15 @@ Atualmente, minha experiência é em desenvolvimento mobile, onde me forneceu um
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+
+
+**Desenvolvedor Mobile** \
+[**Compass.Uol**](https://compass.uol/en/home/) \
+Linguagens & Tecnologias: `Kotlin`, `Javascript`, `Typescript`, `Java`, `React-Native`, `React` \
+<br/>
+
+
+
 **Desenvolvedor Mobile** \
 [**Nav9**](https://www.nav9.tech/) \
 Linguagens & Tecnologias: `Kotlin`, `Javascript`, `Typescript`, `Java`, `React-Native` \
