@@ -31,7 +31,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 
 **Desenvolvedor Mobile** \
-[**Compass.Uol**](https://compass.uol/en/home/) \
 Linguagens & Tecnologias: `Kotlin`, `Javascript`, `Typescript`, `Java`, `React-Native`, `React` \
 <br/>
 
